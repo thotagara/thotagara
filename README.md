@@ -1,0 +1,5 @@
+- 👋 Hi, I’m agriculture enthusiast from Sirsi, Uttara Kannada, Karnataka, India. 
+- 👀 I’m interested in collecting and dissemanating the information about sustainable agriculture practices.
+- 🌱 I’m currently learning responsive web design and internationalization techniques to enable me to spread the knowledge in the local languages in general and Kannada in particular.
+- 💞️ I’m looking to collaborate on kannada website design
+- 📫 How to reach me thotagara@gmail.com
